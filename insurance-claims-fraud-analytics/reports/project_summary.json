@@ -1,0 +1,6 @@
+{
+  "dataset": "Synthetic insurance claims dataset",
+  "records": 6000,
+  "synthetic_review_flag_rate": 0.0478,
+  "purpose": "Portfolio demonstration only; not representative of a real insurer."
+}
