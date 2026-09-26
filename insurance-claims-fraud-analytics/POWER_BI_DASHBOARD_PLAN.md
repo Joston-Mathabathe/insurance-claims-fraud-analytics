@@ -1,4 +1,4 @@
-# Power BI Dashboard Guide
+# Power BI Dashboard Plan
 
 ## Page 1: Claims Overview
 Cards:
