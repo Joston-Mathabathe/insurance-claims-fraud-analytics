@@ -1,0 +1,15 @@
+column,description,type
+claim_id,Unique claim identifier,Identifier
+customer_age,Age of policyholder,Numeric
+policy_tenure_years,Years the policy has been active,Numeric
+policy_type,Type of insurance policy,Categorical
+annual_premium,Annual premium amount,Numeric
+claim_amount,Amount claimed,Numeric
+previous_claims,Number of previous claims,Numeric
+days_to_report,Days between incident and reporting,Numeric
+documents_submitted,Number of supporting documents submitted,Numeric
+customer_service_calls,Customer service calls,Numeric
+incident_hour,Hour of incident,Numeric
+repair_estimate_variance,Synthetic variance indicator for repair estimate,Numeric
+new_policy,Whether policy is relatively new (1/0),Binary
+fraud_review_flag,Synthetic target indicating whether claim is flagged for review,Binary

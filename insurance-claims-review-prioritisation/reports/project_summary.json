@@ -1,0 +1,20 @@
+{
+  "dataset": "Synthetic insurance claims dataset",
+  "records": 6000,
+  "flagged_claims": 287,
+  "synthetic_review_flag_rate": 0.0478,
+  "best_model_by_cv_roc_auc": "Logistic Regression",
+  "holdout_roc_auc": 0.5853,
+  "holdout_average_precision": 0.0633,
+  "cv_roc_auc_mean_std": [
+    0.6168,
+    0.0381
+  ],
+  "cv_average_precision_vs_baseline": [
+    0.0853,
+    0.0478
+  ],
+  "flags_found_in_top_20pct_of_queue": 0.3043,
+  "permutation_test_p_value": 0.0323,
+  "purpose": "Synthetic review-flag prioritisation only; not a fraud-detection or production claim."
+}

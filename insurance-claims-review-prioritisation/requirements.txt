@@ -1,0 +1,8 @@
+# Versions verified in the local runtime used for this release
+pandas==2.2.3
+numpy==2.3.5
+scikit-learn==1.8.0
+matplotlib==3.10.8
+nbformat==5.10.4
+nbclient>=0.10,<1
+jupyter>=1,<2

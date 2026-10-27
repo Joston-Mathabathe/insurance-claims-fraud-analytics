@@ -1,0 +1,4 @@
+strategy,best_queue_share,claims_reviewed,hypothetical_net_benefit_R
+Random review,0.01,60,-28347.966750000003
+Ranked by model score,0.12,720,281798.43500000006
+Ranked by expected recoverable value,0.2,1200,616824.5450000004

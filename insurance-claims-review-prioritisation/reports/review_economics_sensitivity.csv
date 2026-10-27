@@ -1,0 +1,28 @@
+cost_per_review_R,recovery_share,strategy,best_queue_share,hypothetical_net_benefit_R,pays_off
+500,0.15,Random review,0.01,0.0,False
+500,0.15,Ranked by model score,0.24,300643.2494999998,True
+500,0.15,Ranked by expected recoverable value,0.21,493436.58750000014,True
+500,0.25,Random review,1.0,165203.32499999972,True
+500,0.25,Ranked by model score,0.41,1079902.417499999,True
+500,0.25,Ranked by expected recoverable value,0.34,1365334.9425000004,True
+500,0.35,Random review,1.0,1431284.6549999993,True
+500,0.35,Ranked by model score,0.52,2091443.137999998,True
+500,0.35,Ranked by expected recoverable value,0.38,2334517.2385000004,True
+1000,0.15,Random review,0.01,0.0,False
+1000,0.15,Ranked by model score,0.01,49312.79849999999,True
+1000,0.15,Ranked by expected recoverable value,0.07,170731.19550000015,True
+1000,0.25,Random review,0.01,0.0,False
+1000,0.25,Ranked by model score,0.12,281798.43500000006,True
+1000,0.25,Ranked by expected recoverable value,0.2,616824.5450000004,True
+1000,0.35,Random review,0.01,0.0,False
+1000,0.35,Ranked by model score,0.24,941500.9154999997,True
+1000,0.35,Ranked by expected recoverable value,0.21,1361352.0375000006,True
+1500,0.15,Random review,0.01,0.0,False
+1500,0.15,Ranked by model score,0.01,19312.79849999999,True
+1500,0.15,Ranked by expected recoverable value,0.01,75602.45700000002,True
+1500,0.25,Random review,0.01,0.0,False
+1500,0.25,Ranked by model score,0.01,92187.9975,True
+1500,0.25,Ranked by expected recoverable value,0.07,354551.9925000003,True
+1500,0.35,Random review,0.01,0.0,False
+1500,0.35,Ranked by model score,0.12,322517.8089999999,True
+1500,0.35,Ranked by expected recoverable value,0.07,748372.7895000004,True

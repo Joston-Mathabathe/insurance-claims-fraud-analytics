@@ -1,0 +1,2 @@
+observed_cv_roc_auc,shuffled_label_mean,shuffled_label_95th_percentile,permutations,p_value
+0.6168014461040814,0.505500269558875,0.5440405289696508,30,0.03225806451612903

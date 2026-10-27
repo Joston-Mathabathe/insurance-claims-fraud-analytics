@@ -1,0 +1,2 @@
+model,roc_auc,average_precision,flags_found_in_top_20pct,test_claims
+Logistic Regression,0.5853478841460606,0.06332451815534232,0.2982456140350877,1200
